@@ -1,1 +1,2 @@
 # buildFlickrCollection
+Flickr maintains a giant database of photos, and allows users to search it by tags, through the Flickr API. BuildCollection will allow a user to search Flickr for photos, and save a collection of favorites in a database. For instance, the user could make a collection of pictures of different flowers (maybe for a gardening app) by searching for ”rose”, then ”daisy”, then ”violet”, etc, and picking one photo from each search to add to the database.
